@@ -1,6 +1,8 @@
 # email-template-html
 
-I designed an email template for our local high school using Gmail™ Email Templates by cloudHQ.  The source code is MESSY -- but here is a link to see the finished project:<br>
+I designed an email template for our local high school using Gmail™ Email Templates by cloudHQ.  The source code is not the way I would write it, but this is how emails can read and generate it.<br><br>
+
+Here is a link to see the finished project:<br>
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/email-template-html)
 
 
